@@ -1,1 +1,1 @@
-class Main { public static void main(String[] a){ System.out.println("Hello from Legion demo Java!"); } }
+// updated by automation
